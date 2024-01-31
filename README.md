@@ -1,7 +1,7 @@
 _**AMAZON**_
-Category: Software Test Automation
+### Category: Software Test Automation
 
-Skills Required:
+### Skills Required:
 Automation Testing, Manual Testing
 
 ## Project Description:
@@ -78,4 +78,4 @@ Create the Project folder which contains files as shown below:
 
 ![image](https://github.com/smartinternz02/SI-GuidedProject-705316-1704865260/assets/93423367/432cec8c-8dfa-42d4-a5ad-ddfa39c0da91)
 
-### video will be uploaded soon
+
